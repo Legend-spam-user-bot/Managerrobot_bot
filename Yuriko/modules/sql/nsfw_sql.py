@@ -2,7 +2,7 @@ import threading
 from sqlalchemy import Column, String
 from Yuriko.modules.sql import BASE, SESSION
 #   |----------------------------------|
-#   |  Test Module by @EverythingSuckz |
+#   |  Test Module by @sweetttu_1 |
 #   |        Kang with Credits         |
 #   |----------------------------------|
 class NSFWChats(BASE):
